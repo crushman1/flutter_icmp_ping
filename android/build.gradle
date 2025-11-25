@@ -29,7 +29,7 @@ android {
         namespace 'com.zuvola.flutter_icmp_ping'
     }
 
-    compileSdkVersion 33
+    compileSdkVersion 36
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -46,7 +46,7 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 34
     }
 
     dependencies {
